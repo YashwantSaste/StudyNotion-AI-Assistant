@@ -19,7 +19,7 @@ function App() {
 
     setMessage("");
 
-    fetch("study-notion-chatbot-assistant-backend.vercel.app", {
+    fetch("study-notion-ai-assistant-backend.vercel.app", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
